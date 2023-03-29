@@ -10,7 +10,9 @@
 				"ms-toolsai.vscode-ai",
 				"deerawan.vscode-dash",
 				"codemooseus.vscode-devtools-for-chrome",
-				"ms-azuretools.vscode-docker"
+				"ms-azuretools.vscode-docker",
+				"GitLab.gitlab-workflow",
+				"AirOps.airops-data-sidekick"
 			]
 		}
 	}
